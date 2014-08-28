@@ -3,7 +3,7 @@
 ![surabayablackhat](http://www.surabayablackhat.org/forum/images/logo.png)
 
 ## Cara Menggunakan
-* Cukup membaca di setiap file yang ada di atas.
+* Cukup membaca di setiap nama file/theme yang ada di repository Arbitrary File Download & File Deletion Exploit (AFDFDE).
 
 ## List of Theme
 * [Awake Wordpress Theme](https://github.com/SurabayaBlackhat/AFDFDE/blob/master/Awake%20Wordpress%20Theme.txt)
