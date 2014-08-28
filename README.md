@@ -8,17 +8,20 @@
 ## How to Use
 * Cukup membaca di setiap nama file/theme yang ada di repository Arbitrary File Download & File Deletion Exploit (AFDFDE).
 
-## Or read this
-* Require Browser (Google-Chrome/Chromium, Firefox, IE, etc browser)
+## Require
+* Browser (Google-Chrome/Chromium, Firefox, IE, etc browser)
 * Text Editor (Notepad/++, Dreamweaver, Sublimetext, etc editor)
-
-## Use application with Ruby CLI (ruby-AFDFDE)
-> [Go to repository with ruby-AFDFDE](http://blog.surabayablackhat.org/ruby-AFDFDE/)
 
 ## Operating System
 * Windows
 * Mac
 * Linux
+
+## If: Use application with Ruby CLI (ruby-AFDFDE)
+* [Go to repository with ruby-AFDFDE](http://blog.surabayablackhat.org/ruby-AFDFDE/)
+* [ruby](https://www.ruby-lang.org/en/downloads/)
+* [rubygems](https://rubygems.org/pages/download) 
+* [curb](https://rubygems.org/gems/curb)
 
 ## List of Theme
 * [Awake Wordpress Theme](https://github.com/SurabayaBlackhat/AFDFDE/blob/master/Awake%20Wordpress%20Theme.txt)
