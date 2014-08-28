@@ -2,7 +2,7 @@
 
 ![surabayablackhat](http://www.surabayablackhat.org/forum/images/logo.png)
 
-## Cara Menggunakan
+## How to Use
 * Cukup membaca di setiap nama file/theme yang ada di repository Arbitrary File Download & File Deletion Exploit (AFDFDE).
 
 ## List of Theme
