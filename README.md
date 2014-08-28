@@ -15,6 +15,11 @@
 ## Use application with Ruby CLI (ruby-AFDFDE)
 > [Go to repository with ruby-AFDFDE](http://blog.surabayablackhat.org/ruby-AFDFDE/)
 
+## Operating System
+* Windows
+* Mac
+* Linux
+
 ## List of Theme
 * [Awake Wordpress Theme](https://github.com/SurabayaBlackhat/AFDFDE/blob/master/Awake%20Wordpress%20Theme.txt)
 * [Construct Wordpress Theme](https://github.com/SurabayaBlackhat/AFDFDE/blob/master/Construct%20Wordpress%20Theme.txt)
